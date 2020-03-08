@@ -1,0 +1,9 @@
+{
+  "name": "distalk",
+  "version": "1.0.0",
+  "description": "Discord向け読み上げBot",
+  "main": "index.js",
+  "repository": "https://github.com/Chipsnet/distalk.git",
+  "author": "Minato86",
+  "license": "Mozilla Public v 2.0"
+}
